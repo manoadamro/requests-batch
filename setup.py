@@ -4,7 +4,7 @@ setup(
     name="requests_batch",
     version="1.0.0",
     install_requires=[
-        "requests==2.22.0",
+        "requests==2.31.0",
         "fire==0.2.1"
     ],
     extras_require={
